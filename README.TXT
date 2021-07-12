@@ -1,0 +1,1 @@
+Uruchom BD.py. Wpisz polecenia w wierszu polecenia.
